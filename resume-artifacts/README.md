@@ -32,7 +32,7 @@ Self‑directed physics and engineering project modeling outdoor HVAC sound prop
 
 ## 📘 Concepts_of_Assessment.pdf
 
-**Reeves, T. D., Onder, Y., & Kraner, C. (2023).** *Validation and invariance of the Conceptions of Assessment‑III Abridged (COA‑IIIA) among pre‑service and in‑service teachers in the United States.* **Educational Assessment, Evaluation and Accountability, 35**(3), 419–447. `https://doi.org/10.1007/s11092-023-09392-5`
+**Reeves, T. D., Onder, Y., & Kraner, C. (2023).** *Validation and invariance of the Conceptions of Assessment‑III Abridged (COA‑IIIA) among pre‑service and in‑service teachers in the United States.* **Educational Assessment, Evaluation and Accountability, 35**(3), 419–447. https://doi.org/10.1007/s11092-023-09407-4
 
 ### Summary
 
