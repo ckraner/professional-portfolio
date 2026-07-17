@@ -1,0 +1,70 @@
+.multicol4 { 
+  height: 150px;
+  -ms-column-count: 4;
+  -webkit-column-count: 4; /* Chrome, Safari, Opera */ 
+    -moz-column-count: 4;    /* Firefox */ 
+    column-count: 4; 
+  -moz-column-fill: auto;
+  -column-fill: auto;
+} 
+
+.multicol3 { 
+  height: 200px;
+  -ms-column-count: 3;
+  -webkit-column-count: 3; /* Chrome, Safari, Opera */ 
+    -moz-column-count: 3;    /* Firefox */ 
+    column-count: 3; 
+  -moz-column-fill: auto;
+  -column-fill: auto;
+} 
+.multicol32 { 
+  height: 100px;
+  -ms-column-count: 3;
+  -webkit-column-count: 3; /* Chrome, Safari, Opera */ 
+    -moz-column-count: 3;    /* Firefox */ 
+    column-count: 3; 
+  -moz-column-fill: auto;
+  -column-fill: auto;
+} 
+.multicol2 { 
+  height: 250px;
+  -ms-column-count: 2;
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */ 
+    -moz-column-count: 2;    /* Firefox */ 
+    column-count: 2; 
+  -moz-column-fill: auto;
+  -column-fill: auto;
+} 
+
+.main-header .sidebar-toggle2{float:left;
+color: white;
+  background-color:transparent;
+  background-image:none;
+  padding:15px 15px;
+  font-family:fontAwesome;
+  
+}
+
+
+.main-header .sidebar-toggle2:hover{color:black}
+
+.main-header .sidebar-toggle2:active,
+
+.main-header .sidebar-toggle2:focus{background:0 0}
+
+.save-block {
+  display:inline-block;
+  width:500px;
+  height:80px;
+  margin:1em;
+}
+
+.save-check {
+  padding-top:15px;
+}
+
+.run-button {
+  float:left;
+  padding-top:24px;
+}
+

@@ -1,4 +1,4 @@
-# Chris — Portfolio Landing Page
+# Chris Kranner's Portfolio
 
 **I’m Chris Kraner — I like building things that make life a little clearer. This portfolio gathers the tools, analyses, and experiments where I’ve done exactly that.**
 
