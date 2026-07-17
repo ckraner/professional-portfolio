@@ -4,7 +4,7 @@ Quick reference for three technical and research projects. Full details appear i
 
 ---
 
-##### 🔊 HVAC_Waveform_Model.pdf
+## 🔊 HVAC_Waveform_Model.pdf
 
 ### Summary
 
