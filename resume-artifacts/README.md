@@ -4,7 +4,7 @@ Quick reference for three technical and research projects. Full details appear i
 
 ---
 
-##### 🔊 HVAC Acoustic Propagation Model (Personal Technical Project)
+##### 🔊 HVAC_Waveform_Model.pdf
 
 ### Summary
 
@@ -30,14 +30,13 @@ Self‑directed physics and engineering project modeling outdoor HVAC sound prop
 
 ---
 
-## 📘 COA‑IIIA Validation (Springer, 2023)
+## 📘 Concepts_of_Assessment.pdf
 
-**Educational Assessment, Evaluation and Accountability**  
-**Authors:** Reeves, Onder, Kraner
+**Reeves, T. D., Onder, Y., & Kraner, C. (2023).** *Validation and invariance of the Conceptions of Assessment‑III Abridged (COA‑IIIA) among pre‑service and in‑service teachers in the United States.* **Educational Assessment, Evaluation and Accountability, 35**(3), 419–447. `https://doi.org/10.1007/s11092-023-09392-5`
 
 ### Summary
 
-Psychometric evaluation of the Conceptions of Assessment III‑Abridged (COA‑IIIA) among U.S. pre‑service and in‑service teachers.
+A full psychometric evaluation of the Conceptions of Assessment III‑Abridged (COA‑IIIA) using U.S. pre‑service and in‑service teacher samples. The study tested previously published COA‑IIIA factor structures, identified the best‑fitting model for U.S. teachers, and examined measurement invariance and reliability across groups.
 
 ### Key Points
 
@@ -56,10 +55,9 @@ Psychometric evaluation of the Conceptions of Assessment III‑Abridged (COA‑I
 
 
 
-## 👓 Google Glass Instant Feedback System (IEEE ICALT, 2022)
+## 👓 Google_Glass_Integration
 
-**International Conference on Advanced Learning Technologies**  
-**Authors:** Tscholl, Demir, Kraner
+**Tscholl, M., Demir, F., & Kraner, C. (2022).** *Google‑based Learning Analytics System for Assessment (GLASA): Design considerations and classroom implementation.* In **Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT 2022)** (pp. 245–249). IEEE.
 
 ### Summary
 
@@ -87,6 +85,8 @@ Prototype system using Google Glass to deliver real‑time, private feedback dur
 - Educational technology onboarding  
 - Instructional technology integration  
 - Physics‑based modeling and technical documentation
+
+---
 
 ## AI Collaboration Disclosure
 

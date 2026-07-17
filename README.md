@@ -1,28 +1,17 @@
 # Chris Kranner's Portfolio
 
-**I’m Chris Kraner — I like building things that make life a little clearer. This portfolio gathers the tools, analyses, and experiments where I’ve done exactly that.**
+**I like building things that make life a little clearer. This portfolio gathers some tools, analyses, and experiments where I’ve done exactly that.**
 
 ---
 
-## Sections
-- **[resume‑artifacts](ca://s?q=Open_resume_artifacts_folder)** — the three cited articles referenced in my paper  
-- **[projects](ca://s?q=Open_projects_folder)** — interactive Shiny project with its own documentation  
+## Folders
 
----
-
-## Purpose
-A simple, organized entry point to my work. Each folder is intentionally small, focused, and easy to navigate.
-
----
-
-## Resume
-My full professional resume lives at the root of this repository:  
-**[View my resume](ca://s?q=Open_my_resume)**
+- **resume‑artifacts** — the three documents referenced in my resume
+- **shiny-project** — files for Shiny in R statistical methods dashboard  
 
 ---
 
 ## Contact
-- **[LinkedIn](ca://s?q=Open_my_LinkedIn)**  
-- **[GitHub](ca://s?q=Open_my_GitHub)**
 
----
+- **[Email](mailto:ckraner19@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/chriskraner89/)**  
